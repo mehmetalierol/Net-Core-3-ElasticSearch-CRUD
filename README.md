@@ -4,8 +4,6 @@ Nuget Packages
 
 NEST
 
-Microsoft.Extensions.Configuration.Json
-
 NEST.JsonNetSerializer
 
 
