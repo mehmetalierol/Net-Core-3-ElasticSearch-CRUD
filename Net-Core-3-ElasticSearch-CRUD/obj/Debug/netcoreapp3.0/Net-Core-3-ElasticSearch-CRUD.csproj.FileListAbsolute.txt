@@ -1,0 +1,17 @@
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.deps.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.csprojAssemblyReference.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.AssemblyInfo.cs
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.exe
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.runtimeconfig.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.runtimeconfig.dev.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Elasticsearch.Net.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Nest.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\obj\Debug\netcoreapp3.0\Net-Core-3-ElasticSearch-CRUD.csproj.CopyComplete
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Nest.JsonNetSerializer.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-ElasticSearch-CRUD\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

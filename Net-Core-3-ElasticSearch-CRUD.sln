@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net-Core-3-ElasticSearch-CRUD.Service", "Net-Core-3-ElasticSearch-CRUD\Net-Core-3-ElasticSearch-CRUD.Service.csproj", "{881ED135-ECF5-4BA6-B19A-4C70894DF198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881ED135-ECF5-4BA6-B19A-4C70894DF198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881ED135-ECF5-4BA6-B19A-4C70894DF198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881ED135-ECF5-4BA6-B19A-4C70894DF198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881ED135-ECF5-4BA6-B19A-4C70894DF198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC33C2F-DEEA-48AD-8511-A9C03846A800}
+	EndGlobalSection
+EndGlobal
